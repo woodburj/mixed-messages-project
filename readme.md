@@ -45,18 +45,18 @@ Open the file script.js in the local environment and run in Node. Each time the 
 
 
 ## Project Status
-Project is: _in progress_. 
+Project is: _completed_. 
 
 
 ## Room for Improvement
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Add more camera gear options
+- Add more interesting subjects
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Add function to propmt user for inputs
+- Make it useable on website
 
 
 ## Acknowledgements
