@@ -11,4 +11,3 @@ let subject = subjects[randomSubject];
 let cameraGear = cameraGears[randomGear];
 
 console.log (`Your next assignement is to go to ${location}, take a photograph of ${subject} using only a ${cameraGear}`)
-console.log('L:' + randomLocation + ' S:' + randomSubject + ' G:' + randomGear);
